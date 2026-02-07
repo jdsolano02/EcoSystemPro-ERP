@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EcoSystemPro.API/EcoSystemPro.API.csproj" />
+    <Project Path="src/EcoSystemPro.Application/EcoSystemPro.Application.csproj" />
+    <Project Path="src/EcoSystemPro.Domain/EcoSystemPro.Domain.csproj" />
+    <Project Path="src/EcoSystemPro.Infrastructure/EcoSystemPro.Infrastructure.csproj" />
+  </Folder>
+</Solution>
