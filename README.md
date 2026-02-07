@@ -4,6 +4,9 @@
 ![Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-blue)
 ![SOLID](https://img.shields.io/badge/Principles-SOLID-orange)
 ![.NET 9](https://img.shields.io/badge/.NET-9.0-purple)
+[![.NET 9](https://img.shields.io/badge/.NET-9.0-blue.svg)](https://dotnet.microsoft.com/)
+[![React](https://img.shields.io/badge/React-18-61DAFB.svg)](https://reactjs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📋 Overview
 EcoSystem Pro is a robust ERP solution tailored for Small and Medium Enterprises (SMEs) in Costa Rica. The system streamlines core business processes, including inventory control, supplier management, concurrent sales processing, and system auditing.
