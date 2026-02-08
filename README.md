@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-In--Development-green)
 ![Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-blue)
 ![SOLID](https://img.shields.io/badge/Principles-SOLID-orange)
-[![.NET 9](https://img.shields.io/badge/.NET-9.0-blue.svg)](https://dotnet.microsoft.com/)
+[![.NET 10](https://img.shields.io/badge/.NET-10.0-blue.svg)](https://dotnet.microsoft.com/)
 [![React](https://img.shields.io/badge/React-18-61DAFB.svg)](https://reactjs.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,7 +13,7 @@ EcoSystem Pro is a robust ERP solution tailored for Small and Medium Enterprises
 This project serves as a capstone portfolio piece, integrating advanced concepts from my **Systems Engineering** degree, focusing on scalability, maintainability, and enterprise-grade software standards.
 
 ## 🛠️ Tech Stack & Tools
-* **Backend:** .NET 9 (C#) - ASP.NET Core Web API.
+* **Backend:** .NET 10 (C#) - ASP.NET Core Web API.
 * **Frontend:** React + Tailwind CSS (UI/UX Design).
 * **Database:** SQL Server (Relational).
 * **Infrastructure:** Microsoft Azure Integration & GitHub Actions (CI/CD).
